@@ -1,10 +1,10 @@
 # Timer Project
 
-Welcome to the Stopwatch Project repository! This project is a simple stopwatch application built using HTML, CSS, and JavaScript. It allows users to measure elapsed time accurately.
+Welcome to the Timer Project repository! This project is a simple Timer application built using HTML, CSS, and JavaScript. It allows users to measure elapsed time accurately.
 
 ## About
 
-The Stopwatch Project provides a basic stopwatch functionality, allowing users to start, stop, and reset the timer. It's designed with a user-friendly interface and provides accurate timekeeping.
+The Timer Project provides a basic Timer functionality, allowing users to start, stop, and reset the timer. It's designed with a user-friendly interface and provides accurate timekeeping.
 
 ## Features
 
@@ -23,7 +23,7 @@ To use the Timer Project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MullaiVenese03/Timer.git
+   git clone https://github.com/MullaiVenese03/Timer-Project.git
    ```
 2. Open the `index.html` file in your web browser to launch the Timer application.
 3. Enter the timer you want to set and press enter to start the Timer.
